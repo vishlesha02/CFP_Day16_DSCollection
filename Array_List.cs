@@ -50,7 +50,7 @@ namespace DSCollections
             Console.WriteLine("Inserting element at 1st position");
             Display();
 
-            //Remove ate particular index
+            //Remove at particular index
 
             list.RemoveAt(1);
 

@@ -31,6 +31,11 @@ namespace DSCollections
             Queue p4 = new Queue();
             p4.QueueMethods();
             Console.WriteLine();
+
+            // Methods of List
+            List p5 = new List();
+            p5.ListMethod();
+            Console.WriteLine();
         }
     
     
