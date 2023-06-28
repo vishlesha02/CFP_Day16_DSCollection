@@ -26,6 +26,11 @@ namespace DSCollections
             Stacks p3 = new Stacks();
             p3.StackMethods();
             Console.WriteLine();
+
+            // Methods of Queue
+            Queue p4 = new Queue();
+            p4.QueueMethods();
+            Console.WriteLine();
         }
     
     

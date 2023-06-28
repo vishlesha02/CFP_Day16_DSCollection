@@ -50,7 +50,7 @@ namespace DSCollections
                 Console.WriteLine(item + " | ");
             
             }
-
+            Console.WriteLine();
         }
     }
 }
