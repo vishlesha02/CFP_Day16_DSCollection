@@ -63,6 +63,8 @@ namespace DSCollections
 
             Console.WriteLine($"Count of Array List {count}");
             Display();
+
+            
         }
        public void Display()
         {

@@ -13,6 +13,12 @@ namespace DSCollections
             // Methods of ArrayList
             Array_List p1 = new Array_List();
             p1.ArrayListMethod();
+            Console.WriteLine();
+
+
+            // Methods of LinkedList
+            LinkedList p2 = new LinkedList();
+            p2.LinkListMethods();
         }
     
     
