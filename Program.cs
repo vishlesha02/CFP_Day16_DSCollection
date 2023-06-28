@@ -19,6 +19,13 @@ namespace DSCollections
             // Methods of LinkedList
             LinkedList p2 = new LinkedList();
             p2.LinkListMethods();
+            Console.WriteLine();
+
+
+            // Methods of Stack
+            Stacks p3 = new Stacks();
+            p3.StackMethods();
+            Console.WriteLine();
         }
     
     
