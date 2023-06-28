@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\DSCollections\DSCollections\bin\Debug\net6.0\DSCollections.exe
+C:\Users\DELL\source\repos\DSCollections\DSCollections\bin\Debug\net6.0\DSCollections.deps.json
+C:\Users\DELL\source\repos\DSCollections\DSCollections\bin\Debug\net6.0\DSCollections.runtimeconfig.json
+C:\Users\DELL\source\repos\DSCollections\DSCollections\bin\Debug\net6.0\DSCollections.dll
+C:\Users\DELL\source\repos\DSCollections\DSCollections\bin\Debug\net6.0\DSCollections.pdb
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.dll
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\refint\DSCollections.dll
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.pdb
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\DSCollections.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DSCollections\DSCollections\obj\Debug\net6.0\ref\DSCollections.dll

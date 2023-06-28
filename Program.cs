@@ -10,8 +10,9 @@ namespace DSCollections
     { 
         public static void Main(string[] args) 
         {
-
-            Console.WriteLine("Different Data Structure Collection");
+            // Methods of ArrayList
+            Array_List p1 = new Array_List();
+            p1.ArrayListMethod();
         }
     
     
